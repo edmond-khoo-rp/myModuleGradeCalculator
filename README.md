@@ -1,5 +1,6 @@
 This project idea is inspired by https://plsgrade.me/ and motivated by my students.
-Live demo hosted at https://mymodulegradecalculator.netlify.app/, you can fork and self-host too.
+
+Live demo hosted at https://mymodulegradecalculator.netlify.app/.
 
 Don’t wait until the last minute. It’s still not too late to start now!
 
