@@ -1,4 +1,4 @@
-This project idea is inspired by https://plsgrade.me/ and motivated by my students.
+This project idea is inspired by https://plsgrade.me/ and my students.
 
 Live demo hosted at 
 1) https://mymodulegradecalculator.netlify.app/
